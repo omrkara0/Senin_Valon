@@ -1,0 +1,10 @@
+C:\Users\kara\source\repos\Senin_Valon\Senin_Valon\bin\Debug\Senin_Valon.exe.config
+C:\Users\kara\source\repos\Senin_Valon\Senin_Valon\bin\Debug\Senin_Valon.exe
+C:\Users\kara\source\repos\Senin_Valon\Senin_Valon\bin\Debug\Senin_Valon.pdb
+C:\Users\kara\source\repos\Senin_Valon\Senin_Valon\obj\Debug\Senin_Valon.csproj.AssemblyReference.cache
+C:\Users\kara\source\repos\Senin_Valon\Senin_Valon\obj\Debug\Senin_Valon.Properties.Resources.resources
+C:\Users\kara\source\repos\Senin_Valon\Senin_Valon\obj\Debug\Senin_Valon.csproj.GenerateResource.cache
+C:\Users\kara\source\repos\Senin_Valon\Senin_Valon\obj\Debug\Senin_Valon.csproj.CoreCompileInputs.cache
+C:\Users\kara\source\repos\Senin_Valon\Senin_Valon\obj\Debug\Senin_Valon.exe
+C:\Users\kara\source\repos\Senin_Valon\Senin_Valon\obj\Debug\Senin_Valon.pdb
+C:\Users\kara\source\repos\Senin_Valon\Senin_Valon\obj\Debug\Senin_Valon.pencere.resources
