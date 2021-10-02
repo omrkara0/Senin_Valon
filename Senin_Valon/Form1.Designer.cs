@@ -51,7 +51,7 @@ namespace Senin_Valon
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(166, 127);
             this.label1.TabIndex = 1;
-            this.label1.Text = "45";
+            this.label1.Text = "46";
             // 
             // spike
             // 
